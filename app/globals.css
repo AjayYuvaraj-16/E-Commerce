@@ -1,0 +1,27 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+:root{
+    --font-family: 'Poppins';
+}
+body {
+    font-family: var(--font-family);
+  } */
+.custom-ul {
+    border-right: 1px solid rgba(232, 234, 238, 0.4);
+    border-width: 3px;
+}
+li.custom-List{
+    
+}
+
+.custom-table-profile {
+    padding: 0.8rem 0;
+    font-size: 16px;
+}
+/* .custom-List-Text span.MuiTypography-root {
+    color: #CACED8;
+}
+.custom-ul .Mui-selected.custom-List-button {
+    color: #083A50;
+    font-weight: 500;
+    } */
